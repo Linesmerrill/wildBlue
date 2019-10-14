@@ -59,3 +59,18 @@ Here is a list of all the available last names:
 - kenton
 - lord
 
+## Nicknames
+
+Here is a list of all the available nicknames:
+- ace
+- bogey
+- cap
+- duck
+- eagle
+- fuzzy
+- goose
+- hawk
+- itchy
+- joker
+- kite
+- lefty
