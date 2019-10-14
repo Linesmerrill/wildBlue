@@ -41,3 +41,21 @@ Here is a list of the first names of the pilots and co-pilots:
 - jack
 - keith
 - larry
+
+## Last Names
+
+Here is a list of all the available last names:
+
+- abrams
+- beam
+- clarkson
+- drather
+- evans
+- farr
+- gray
+- hardy
+- ives
+- jones
+- kenton
+- lord
+
