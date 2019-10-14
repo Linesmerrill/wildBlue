@@ -15,3 +15,13 @@ and also figure out each person's nickname.
 belongs to a single person
 1. The plane name and pilot cannot have the same first character
 1. The plane name and co-pilot cannot have the same first character
+
+## Planes
+
+Here is a list of all the available planes:
+- bluebell
+- devilfire
+- fleetfoot
+- hammerhead
+- jalopy
+- lumberjack
