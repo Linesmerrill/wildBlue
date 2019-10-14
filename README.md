@@ -11,4 +11,7 @@ and also figure out each person's nickname.
 ## The Rules
 
 1. There can only be one pilot and one co-pilot on each plane.
-1. 
+1. Every pilot and co-pilot have a different nickname, i.e. only one nickname
+belongs to a single person
+1. The plane name and pilot cannot have the same first character
+1. The plane name and co-pilot cannot have the same first character
