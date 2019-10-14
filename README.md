@@ -25,3 +25,19 @@ Here is a list of all the available planes:
 - hammerhead
 - jalopy
 - lumberjack
+
+## First Names
+
+Here is a list of the first names of the pilots and co-pilots:
+- alex
+- brad
+- chuck
+- dave
+- edgar
+- fred
+- greg
+- harold
+- ivan
+- jack
+- keith
+- larry
